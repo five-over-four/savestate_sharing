@@ -1,3 +1,3 @@
 git add -A
-git commit -m "changes"
+git commit -m "legato's state"
 git push --force
