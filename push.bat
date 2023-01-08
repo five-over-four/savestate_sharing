@@ -1,3 +1,3 @@
-git add -A 
-git commit -m "ur mum"
+git add -A
+git commit -m "changes"
 git push --force
