@@ -1,2 +1,3 @@
-sender_nes.py
-sender_snes.py
+.gitignore
+sender_nes.pyw
+sender_snes.pyw
